@@ -1,8 +1,10 @@
- Map of Content
-In the second memex, I mainly focused my research around how the technological developments at the time affected the war. With most research surrounding the communication aspect of the war. For the remainder of the course I will continue to explore the advancements in technology and communication and how it affected the military. 
- *MM2* indicates work from second memex
+ # Map of Content
 
-Sources
+In the second memex, I mainly focused my research around how the technological developments at the time affected the war. With most research surrounding the communication aspect of the war. For the remainder of the course I will continue to explore the advancements in technology and communication and how it affected the military. 
+
+## *MM2* indicates work from second memex
+
+## Sources
 •	[[@BushVannevarAsWeMayThink1945]]
 •	[[@LeibnizCalculatingMachine]]
 •	[[@KumarShivFromClayTabletstoWeb2013]]
@@ -14,7 +16,7 @@ Sources
 •	[[@BritanicaWWIIMilitaryCommunication]] MM2
 •	[[@CoopersmithJonathanTheRiseAndFallOfTheFaxMachine2015]] MM2
 
-Thoughts
+## Thoughts
 •	[[How did Bush predict all this]]
 •	[[Is Twitter reliable]]
 •	[[Is the Federated wiki a future tool]]
@@ -28,7 +30,7 @@ Thoughts
 •	[[Mobile radios WWII]] MM2
 •	[[Telephones in WWI]] MM2
 
-To Do
+## To Do
 •	[[Bush to Do]]
 •	[[Caulfield To do]]
 •	[[Leibniz To do]]
