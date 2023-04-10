@@ -24,7 +24,7 @@ In the second memex, I mainly focused my research around how the technological d
 
 ## Thoughts
 
-## Military
+### Military
 * [[Germans and the Wireless Telegraphy]] MM2
 *	[[Mobile radios WWII]] MM2
 * [[Telephones in WWI]] MM2
@@ -39,11 +39,11 @@ In the second memex, I mainly focused my research around how the technological d
 
 
 
-## Lecture Connections
+### Lecture Connections
 * [[Jan 11 Lecture Connection]]
 * [[Feb 15 Lecture Connection]] MM2
 
-## General
+### General
 
 *	[[How did Bush predict all this]]
 *	[[Is Twitter reliable]]
