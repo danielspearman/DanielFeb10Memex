@@ -5,16 +5,16 @@ In the second memex, I mainly focused my research around how the technological d
 ## *MM2* indicates work from second memex
 
 ## Sources
-•	[[@BushVannevarAsWeMayThink1945]]
-•	[[@LeibnizCalculatingMachine]]
-•	[[@KumarShivFromClayTabletstoWeb2013]]
-•	[[@CaulfieldMikeTheGardenAndTheStream2015]]
-•	[[@VoderVocoderHomer2013]]
-•	[[@TworekHeidiWirelessTelegraphy2014]] MM2
-•	[[@WWIMilitaryCommunication]] MM2
-•	[[@TelegramVsFax2023]] MM2
-•	[[@BritanicaWWIIMilitaryCommunication]] MM2
-•	[[@CoopersmithJonathanTheRiseAndFallOfTheFaxMachine2015]] MM2
+*	[[@BushVannevarAsWeMayThink1945]]
+*	[[@LeibnizCalculatingMachine]]
+*	[[@KumarShivFromClayTabletstoWeb2013]]
+*	[[@CaulfieldMikeTheGardenAndTheStream2015]]
+*	[[@VoderVocoderHomer2013]]
+*	[[@TworekHeidiWirelessTelegraphy2014]] MM2
+*	[[@WWIMilitaryCommunication]] MM2
+*	[[@TelegramVsFax2023]] MM2
+*	[[@BritanicaWWIIMilitaryCommunication]] MM2
+*	[[@CoopersmithJonathanTheRiseAndFallOfTheFaxMachine2015]] MM2
 * [[@MaarHenryNewArmsRace2022MM3]]
 * [[@TarantolaAndrewColdWarRadioRooms2014MM3]]
 * [[@WithingtonThomasSATCOM MM3]]
@@ -26,7 +26,7 @@ In the second memex, I mainly focused my research around how the technological d
 
 ## Military
 * [[Germans and the Wireless Telegraphy]] MM2
-•	[[Mobile radios WWII]] MM2
+*	[[Mobile radios WWII]] MM2
 * [[Telephones in WWI]] MM2
 * [[SATCOM Skeptics MM3]]
 * [[The Progression of SATCOM MM3]]
@@ -45,22 +45,22 @@ In the second memex, I mainly focused my research around how the technological d
 
 ## General
 
-•	[[How did Bush predict all this]]
-•	[[Is Twitter reliable]]
-•	[[Is the Federated wiki a future tool]]
-•	[[Issues with the Calculator]]
-•	[[The Advancement of Technology]]
-•	[[Why did it take so long]]
-•	[[Francs to CAD]] MM2
+*	[[How did Bush predict all this]]
+*	[[Is Twitter reliable]]
+*	[[Is the Federated wiki a future tool]
+*	[[Issues with the Calculator]]
+* [[The Advancement of Technology]]
+* [[Why did it take so long]]
+* [[Francs to CAD]] MM2
 * [[How did the policies work MM3]]
 
 ## To Do
-•	[[Bush to Do]]
-•	[[Caulfield To do]]
-•	[[Leibniz To do]]
-•	[[Tworek To Do]] MM2
-•	[[Faxes To Do]] MM2
-•	[[Brittanica to do]] MM2
+* [[Bush to Do]]
+* [[Caulfield To do]]
+* [[Leibniz To do]]
+* [[Tworek To Do]] MM2
+* [[Faxes To Do]] MM2
+* [[Brittanica to do]] MM2
 * [[SATCOM To Do MM3]]
 * [[Tarantola to do MM3]]
 
