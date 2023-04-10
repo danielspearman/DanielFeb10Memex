@@ -1,0 +1,2 @@
+- After reading the technological advances, I wonder how much the tech produced at this time, is now the basis for tech of today. For instance, the small spy cams, how much do the cameras of today resemble the ones from the cold war.
+[[@ColdWarTechnologicalAdvancesMM3]]
