@@ -2,7 +2,13 @@
 
 In the second memex, I mainly focused my research around how the technological developments at the time affected the war. With most research surrounding the communication aspect of the war. For the remainder of the course I will continue to explore the advancements in technology and communication and how it affected the military. In the third memex, I looked into the cold war specifically the arms race that came with the war. And what the arms race did for the general society.
 
+
 ## *MM2* indicates work from second memex
+
+
+## Journey Assignement
+* [[0_Final Journey_1]]
+* [[0_Final Journey_2]]
 
 ## Sources
 *	[[@BushVannevarAsWeMayThink1945]]
